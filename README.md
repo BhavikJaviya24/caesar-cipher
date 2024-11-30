@@ -14,7 +14,6 @@ This repository contains a simple Python implementation of the Caesar Cipher, a 
 - [Technologies Used](#technologies-used)  
 - [Future Improvements](#future-improvements)  
 - [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
